@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neet Verat</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="center" alt="Coding" width="1024" src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47jn7g00htqpz8v7b70w983h26q6iglucc1itzfyd0&rid=giphy.gif&ct=g"></img>
+<img align="center" alt="Coding" width="800" src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47jn7g00htqpz8v7b70w983h26q6iglucc1itzfyd0&rid=giphy.gif&ct=g"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neetverat&label=Profile%20views&color=0e75b6&style=flat" alt="neetverat" /> </p>
 
