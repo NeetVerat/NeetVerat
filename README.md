@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **java, html, css, javascript, node.js**
 
-- 📫 How to reach me **veratnatie@gmail.com**
+- 📫 How to reach me **nvecho@hotmail.com**
 
 - 📄 Know about my experiences [https://nvecho.com/resume.html](https://nvecho.com/resume.html)
 
